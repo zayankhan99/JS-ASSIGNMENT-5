@@ -108,7 +108,7 @@
 // } 
 // document.write(`Largest Number is<b> ${largestNumber}</b> </br></br> between </br> ${a}`)
 
-// ==== (Q-9) ====
+//  Q-9
 // var a = [24, 53, 78, 91, 12];
 // var smallestNumber = a[0]
 // for(var i = 0 ; i < a.length; i++){
@@ -118,7 +118,7 @@
 // } 
 // document.write(`smallest Number is<b> ${smallestNumber}</b> </br></br> between </br> ${a}`)
 
-// ==== (Q-10) ===
+// Q-10
 // for(var i = 5; i <= 100 ; i +=  5 ){
 //     document.write(`${i} `);
 // }
