@@ -1,24 +1,24 @@
-// ==== (Q-1) ===
-var multiArr = [[],[],[]]
-console.log(multiArr)
+// Q-1
+// var multiArr = [[],[],[]]
+// console.log(multiArr)
 
-// ==== (Q-2) ===
+// Q-2
 // var multiArr = [["0123"],["1012"],["2101"]]
 // document.write(`${multiArr[0]} </br> ${multiArr[1]} </br> ${multiArr[2]}`);
 
-// ==== (Q-3) ===
+// Q-3
 // for(var i = 1; i <= 10; i++){
 // document.write(`<b>${i}</b> </br>`)
 // }
 
-// ==== (Q-4) ===
+//  Q-4
 // var tableOf = +prompt("Enter which table you want to show in browser");
 // var tableLength = +prompt("enter table length you want to see in browser");
 // for(var i = 1; i <= tableLength;i++){
 //     document.write(`${tableOf} x ${i} = ` + tableOf * i +  "</br>")
 // }
 
-// ==== (Q-5) ===
+// Q-5
 // var fruits = ["“apple”", "“banana”", "“mango”", "“orange”","“strawberry”"];
 // for(var i = 0; i < fruits.length; i++){
 //     document.write(`${fruits[i] }</br>`)    
@@ -29,7 +29,7 @@ console.log(multiArr)
 // Element at index 3 is ${fruits[3]} </br>
 // Element at index 4 is ${fruits[4]} </br>`)
 
-// === (Q-6) ===
+// Q-6
 // (A)
 // document.write(`<h3>Counting</h3>`)
 // for(var i = 0; i <= 15 -1; i++){
@@ -59,7 +59,7 @@ console.log(multiArr)
 //         document.write(i  +  "k" + ". ")
 //      }
     
-// === (Q-7) ===
+// Q-7
 
 // ---------------- This is with method ------------
 
